@@ -1,0 +1,1 @@
+print('LMS app started') 
